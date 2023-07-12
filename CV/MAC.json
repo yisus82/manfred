@@ -109,6 +109,12 @@
           "name": "React",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
       }
     ]
   },

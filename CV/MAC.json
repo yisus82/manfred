@@ -52,6 +52,12 @@
       },
       {
         "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Eclipse",
           "type": "technology"
         }

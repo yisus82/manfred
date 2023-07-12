@@ -151,6 +151,12 @@
           "name": "Unity3D",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
       }
     ]
   },

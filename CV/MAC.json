@@ -76,6 +76,12 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
         }

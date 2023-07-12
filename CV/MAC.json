@@ -58,6 +58,12 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Eclipse",
           "type": "technology"
         }

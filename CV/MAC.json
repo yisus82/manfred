@@ -121,6 +121,12 @@
           "name": "React Native",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Unity3D",
+          "type": "technology"
+        }
       }
     ]
   },

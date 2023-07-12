@@ -136,6 +136,12 @@
       },
       {
         "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Unity3D",
           "type": "technology"
         }

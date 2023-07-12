@@ -201,5 +201,13 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      }
+    ]
   }
 }

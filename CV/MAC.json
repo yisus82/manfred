@@ -46,6 +46,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Eclipse",
           "type": "technology"
         }

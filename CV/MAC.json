@@ -55,6 +55,12 @@
           "name": "JavaScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
       }
     ]
   },

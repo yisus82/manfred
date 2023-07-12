@@ -106,6 +106,12 @@
       },
       {
         "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MySQL",
           "type": "technology"
         }

@@ -46,6 +46,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Eclipse",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }

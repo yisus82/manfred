@@ -42,6 +42,14 @@
         "name": "GL",
         "level": "Native or bilingual proficiency"
       }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      }
     ]
   },
   "careerPreferences": {

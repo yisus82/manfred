@@ -176,6 +176,80 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática",
+        "startDate": "2008-02-01",
+        "institution": {
+          "name": "Universidade da Coruña",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/12/ec617221-620f-4fc5-a0a4-154d11d2dfaa_ingenieria-informati.png",
+            "alt": "Ingeniería Informática.png"
+          }
+        },
+        "finishDate": "2008-02-01",
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "EJB",
+            "type": "technology"
+          },
+          {
+            "name": "Eclipse",
+            "type": "technology"
+          },
+          {
+            "name": "Fortran",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Haskell",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "Netbeans",
+            "type": "technology"
+          },
+          {
+            "name": "Pascal",
+            "type": "technology"
+          },
+          {
+            "name": "Struts",
+            "type": "technology"
+          },
+          {
+            "name": "Swing",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
@@ -214,6 +288,14 @@
       },
       {
         "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "React",
         "type": "technology"
       }
     ]

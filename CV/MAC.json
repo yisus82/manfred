@@ -124,6 +124,12 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Unity3D",
           "type": "technology"
         }

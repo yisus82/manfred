@@ -106,6 +106,12 @@
       },
       {
         "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }

@@ -58,6 +58,12 @@
       },
       {
         "skill": {
+          "name": "Jetbrains",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }

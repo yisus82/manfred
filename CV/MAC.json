@@ -1,0 +1,71 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jesús Ángel",
+      "surnames": "Pérez-Roca Fernández",
+      "title": "Profesor de Ciclos Formativos en CPR Liceo La Paz",
+      "description": "Soy un profesor de ciclos formativos de desarrollo de aplicaciones al que le encanta programar y enseñar a otros a programar en distintos lenguajes de programación.\n\nTambién soy bastante activo en las comunidades tecnológicas de mi ciudad (A Coruña) y de mi comunidad autónoma (Galicia) y administro (junto con otras personas maravillosas) las comunidades de Python Coruña y la de CoruñaWTF (Web Talks & Friends).\n",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/12/b5967b1f-98d0-4647-8be2-49f1d060011f_profile.jpg",
+        "alt": "profile.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://yisus82.github.io/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/jesusperezrocafernandez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/yisus82",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "djalma8@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "669850020",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "status": "notAvailable"
+  }
+}

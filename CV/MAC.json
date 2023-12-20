@@ -11,8 +11,8 @@
       "title": "Professor at CPR Liceo La Paz",
       "description": "Experienced Professor with a demonstrated history of working in the higher education industry. Strong professional skilled in Unity 3D and web development, who have coded in Java, C#, Python, Javascript, and a few other programming languages.\n\nPortfolio: https://yisus82.github.io/",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/f8138e0a-413e-4858-93fc-37109e3168fb_linkedin-photo-37916.linkedin-photo-37916",
-        "alt": "23/12/20/f8138e0a-413e-4858-93fc-37109e3168fb_linkedin-photo-37916.linkedin-photo-37916"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/711e573b-cf63-4fbb-85f7-6a00e32f3893_linkedin-photo-37916.linkedin-photo-37916",
+        "alt": "23/12/20/711e573b-cf63-4fbb-85f7-6a00e32f3893_linkedin-photo-37916.linkedin-photo-37916"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
@@ -33,6 +33,83 @@
       {
         "type": "other",
         "URL": "https://yisus82.github.io/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "OpositaTest",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/26111ff1-e17b-4ad3-b7d8-049347a17b22_linkedin-photo-37916.linkedin-photo-37916",
+            "alt": "23/12/20/26111ff1-e17b-4ad3-b7d8-049347a17b22_linkedin-photo-37916.linkedin-photo-37916"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2019-07-01",
+            "finishDate": "2020-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Imatia Innovation",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/71149729-0d99-4907-b8b7-f00b025c6c5a_linkedin-photo-37916.linkedin-photo-37916",
+            "alt": "23/12/20/71149729-0d99-4907-b8b7-f00b025c6c5a_linkedin-photo-37916.linkedin-photo-37916"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2019-06-01",
+            "finishDate": "2019-07-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CPR Plurilingüe Liceo La Paz",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/8aad305c-de73-416b-8187-0dacd8bad20d_linkedin-photo-37916.linkedin-photo-37916",
+            "alt": "23/12/20/8aad305c-de73-416b-8187-0dacd8bad20d_linkedin-photo-37916.linkedin-photo-37916"
+          }
+        },
+        "roles": [
+          {
+            "name": "Professor",
+            "startDate": "2010-09-01",
+            "challenges": [
+              {
+                "description": "Programming and web developing professor"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tecnocom",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/e36b270b-1540-4632-96be-6e13f42998dd_linkedin-photo-37916.linkedin-photo-37916",
+            "alt": "23/12/20/e36b270b-1540-4632-96be-6e13f42998dd_linkedin-photo-37916.linkedin-photo-37916"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior SAP Basis Consultant",
+            "startDate": "2007-06-01",
+            "finishDate": "2010-09-30",
+            "challenges": [
+              {
+                "description": "SAP Basis Consultant"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

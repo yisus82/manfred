@@ -1,18 +1,18 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
-      "name": "Jesús Ángel",
-      "surnames": "Pérez-Roca Fernández",
-      "title": "Profesor de Ciclos Formativos en CPR Liceo La Paz",
-      "description": "Soy un profesor de ciclos formativos de desarrollo de aplicaciones al que le encanta programar y enseñar a otros a programar en distintos lenguajes de programación.\n\nTambién soy bastante activo en las comunidades tecnológicas de mi ciudad (A Coruña) y de mi comunidad autónoma (Galicia) y administro (junto con otras personas maravillosas) las comunidades de Python Coruña y la de CoruñaWTF (Web Talks & Friends).\n",
+      "name": "Jesús",
+      "surnames": "Ángel Pérez-Roca Fernández",
+      "title": "Professor at CPR Liceo La Paz",
+      "description": "Experienced Professor with a demonstrated history of working in the higher education industry. Strong professional skilled in Unity 3D and web development, who have coded in Java, C#, Python, Javascript, and a few other programming languages.\n\nPortfolio: https://yisus82.github.io/",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/12/b5967b1f-98d0-4647-8be2-49f1d060011f_profile.jpg",
-        "alt": "profile.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/f8138e0a-413e-4858-93fc-37109e3168fb_linkedin-photo-37916.linkedin-photo-37916",
+        "alt": "23/12/20/f8138e0a-413e-4858-93fc-37109e3168fb_linkedin-photo-37916.linkedin-photo-37916"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
@@ -23,6 +23,14 @@
     },
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jesusperezrocafernandez"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/yisus82"
+      },
+      {
         "type": "other",
         "URL": "https://yisus82.github.io/"
       }
@@ -32,14 +40,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -256,7 +267,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/jesusperezrocafernandez/",
+          "URL": "https://linkedin.com/in/jesusperezrocafernandez",
           "type": "linkedin"
         },
         {
